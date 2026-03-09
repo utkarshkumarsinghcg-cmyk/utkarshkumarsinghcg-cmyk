@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=75&fontColor=00E5FF&animation=twinkling&desc=Full%20Stack%20MERN%20Developer&descSize=25&descAlignY=65" alt="Coding Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=code&color=0d1117&secondaryColor=00e5ff&height=200&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Terminal Header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);npm+start;git+commit+-m+%22Success%22" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+</h1>
 
 ---
 
@@ -63,7 +63,7 @@
 
 ---
 
-### 🐍 My Contribution Snake
+### 🐍 Contribution Game
 <div align="center">
   <img src="https://github.com/utkarshkumarsinghcg-cmyk/utkarshkumarsinghcg-cmyk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
