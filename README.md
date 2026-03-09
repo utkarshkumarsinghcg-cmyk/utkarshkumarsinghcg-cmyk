@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sushant</h1>
+<h1 align="center">Hi 👋, I'm Utkarsh kuamr singh</h1>
 
 <p align="center">
   <i>As an enthusiastic and highly motivated software professional, eager to learn new technologies and methodologies. Seeking a position to utilize my skills and abilities in a role that offers professional growth while being resourceful, innovative, and flexible, looking for a challenging position where I will have opportunities to contribute my experience in projects.</i>
@@ -16,7 +16,7 @@
       <li>🌱 I’m currently working on <strong>MERN Stack</strong></li>
       <li>👯 I’m looking to collaborate on <strong>PORTFOLIO</strong></li>
       <li>💬 Ask me about anything related to <strong>MERN</strong></li>
-      <li>📫 How to reach me: <strong>[Your Email Here]</strong></li>
+      <li>📫 How to reach me: <strong></strong></li>
       <li>⚡ Fun fact: <strong>I am a creative person and I love My Country !</strong></li>
     </ul>
   </div>
