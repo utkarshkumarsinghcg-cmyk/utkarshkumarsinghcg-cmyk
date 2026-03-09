@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=code&color=1a1b27&secondaryColor=00e5ff&height=200&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Coding Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:ff00ff,100:ffff00&height=240&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Utkarsh Banner" />
 </p>
 
 <h1 align="center">
@@ -47,13 +47,6 @@
 
 ---
 
-### 🐍 My Contribution Snake
-<div align="center">
-  <img src="https://github.com/utkarshkumarsinghcg-cmyk/utkarshkumarsinghcg-cmyk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
@@ -62,6 +55,17 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=ff00ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
+</p>
+
+---
+
+### 🐍 My Contribution Snake
+<div align="center">
+  <img src="https://github.com/utkarshkumarsinghcg-cmyk/utkarshkumarsinghcg-cmyk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
