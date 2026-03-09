@@ -16,7 +16,7 @@
       <li>🌱 I’m currently working on <strong>MERN Stack</strong></li>
       <li>👯 I’m looking to collaborate on <strong>PORTFOLIO</strong></li>
       <li>💬 Ask me about anything related to <strong>MERN</strong></li>
-      <li>📫 How to reach me: <strong></strong></li>
+      <li>📫 How to reach me: <strong>utkarshkumarsingh491@gmail.com</strong></li>
       <li>⚡ Fun fact: <strong>I am a creative person and I love My Country !</strong></li>
     </ul>
   </div>
