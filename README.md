@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:ff00ff,100:ffff00&height=220&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=code&color=1a1b27&secondaryColor=00e5ff&height=200&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Coding Banner" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 ---
@@ -12,12 +12,12 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
   <div style="flex: 1;">
     <p>
-      I'm an enthusiastic and highly motivated <b>Software Professional</b> focused on building high-performance web applications. I specialize in the <b>MERN Stack</b> and love turning complex problems into elegant, user-friendly solutions.
+      I'm an enthusiastic and highly motivated <b>Software Professional</b>. I specialize in the <b>MERN Stack</b> and love turning complex problems into elegant, user-friendly solutions.
     </p>
     <ul>
       <li>🚀 Currently building scalable apps with <b>React & Node.js</b></li>
       <li>🌱 Exploring <b>Next.js</b> and advanced <b>Backend Architecture</b></li>
-      <li>👯 Open to collaborating on <b>Open Source Projects</b></li>
+      <li>👯 Open to collaborating on <b>Portfolio Projects</b></li>
       <li>📫 Reach me at: <b>utkarshkumarsingh491@gmail.com</b></li>
     </ul>
   </div>
@@ -47,6 +47,13 @@
 
 ---
 
+### 🐍 My Contribution Snake
+<div align="center">
+  <img src="https://github.com/utkarshkumarsinghcg-cmyk/utkarshkumarsinghcg-cmyk/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
 ### 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
@@ -57,10 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=ff00ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
-</p>
-
 ---
 
 ### 🌐 Connect & Support
@@ -70,5 +73,5 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshkumarsinghcg-cmyk&label=Profile%20Views&color=ff00ff&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=utkarshkumarsinghcg-cmyk&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
 </div>
