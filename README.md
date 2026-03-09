@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:ff00ff,100:ffff00&height=240&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Utkarsh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=75&fontColor=00E5FF&animation=twinkling&desc=Full%20Stack%20MERN%20Developer&descSize=25&descAlignY=65" alt="Coding Banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=System.out.println(%22Hello+World%22);npm+start;git+commit+-m+%22Success%22" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -58,7 +58,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=ff00ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
