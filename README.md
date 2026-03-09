@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=code&color=0d1117&secondaryColor=00e5ff&height=200&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Terminal Header" />
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGAcjFXQLytJw/profile-displaybackgroundimage-shrink_350_1400/B56Zy9KMLqH8Ac-/0/1772700098729?e=1774483200&v=beta&t=bpQxrPL-Z2meJ1gpdmTEkeQ7QbFG48FVEaKFnVW-Iuo" />
 </p>
 
 <h1 align="center">
