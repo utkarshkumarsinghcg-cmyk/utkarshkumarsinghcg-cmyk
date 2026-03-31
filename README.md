@@ -1,6 +1,8 @@
 <p align="center">
   <h1>UTKARSH KUMAR SINGH</h1>
-  <img src = "https://in.pinterest.com/pin/9499849210202979/"
+ <video width="100%" autoplay loop muted>
+  <source src="https://in.pinterest.com/pin/8936899257356427/">
+</video>
 </p>
 
 <h1 align="center">
