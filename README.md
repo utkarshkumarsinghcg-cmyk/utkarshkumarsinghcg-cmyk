@@ -64,20 +64,36 @@
 </table>
 
 ---
+---
 
 ### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" width="48%" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" width="48%" alt="Top Languages" />
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+       <br>
+       <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
+---
+
+### 💻 Workspace Aesthetic
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://i.pinimg.com/1200x/29/dd/db/29dddbb74db0c68adc5358271281e03a.jpg" width="100%" style="border-radius: 15px;" />
 </p>
 
 ---
