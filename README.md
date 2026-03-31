@@ -1,7 +1,7 @@
 <p align="center">
   <h1>UTKARSH KUMAR SINGH</h1>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
 </p>
 
 <h1 align="center">
