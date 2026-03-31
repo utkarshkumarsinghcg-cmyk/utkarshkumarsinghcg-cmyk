@@ -1,8 +1,7 @@
 <p align="center">
   <h1>UTKARSH KUMAR SINGH</h1>
- <video width="100%" autoplay loop muted>
-  <source src="https://in.pinterest.com/pin/8936899257356427/">
-</video>
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">
