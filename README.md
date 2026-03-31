@@ -1,4 +1,6 @@
-<h1 style="text-align: center;">UTKARSH KUMAR SINGH</h1>
+<p align="center">
+  <h1>UTKARSH KUMAR SINGH</h1>
+</p>
 <table>
   <tr>
     <td width="50%">
