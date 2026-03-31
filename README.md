@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50%" />
     </td>
     <td width="50%">
       <h2>🚀 Full Stack Developer</h2>
