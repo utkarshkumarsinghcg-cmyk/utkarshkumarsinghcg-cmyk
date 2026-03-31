@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQGAcjFXQLytJw/profile-displaybackgroundimage-shrink_350_1400/B56Zy9KMLqH8Ac-/0/1772700098729?e=1774483200&v=beta&t=bpQxrPL-Z2meJ1gpdmTEkeQ7QbFG48FVEaKFnVW-Iuo" />
+  <img src="https://i.pinimg.com/736x/cd/37/69/cd37690721182845c25065045c96363f.jpg" />
 </p>
 
 <h1 align="center">
@@ -47,14 +47,17 @@
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF&background=1a1b27" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=ffffff&cache_seconds=1800" width="48%" alt="Top Languages" />
 </div>
 
 <p align="center">
@@ -62,6 +65,7 @@
 </p>
 
 ---
+
 
 ### 🌐 Connect & Support
 <p align="center">
