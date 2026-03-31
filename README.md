@@ -1,8 +1,23 @@
-<p align="center">
-  <h1>UTKARSH KUMAR SINGH</h1>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="YOUR_IMAGE_LINK" width="100%" />
+    </td>
+    <td width="50%">
+      <h2>🚀 Full Stack Developer</h2>
+      <p>
+        I build scalable web applications using the MERN stack.<br><br>
+        Passionate about solving real-world problems and creating clean UI.
+      </p>
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
+      <ul>
+        <li>⚡ React & Node.js</li>
+        <li>🔥 MongoDB & Express</li>
+        <li>🚀 Learning Next.js</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
