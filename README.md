@@ -54,6 +54,22 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
   </tr>
 </table>
 
+
+
+
+### 🌐 Connect With Me
+<p align="center">
+<a href="mailto:utkarshkumarsingh491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/utkarsh-kumar-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+
+--
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkarshkumarsinghcg-cmyk&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
+</div>
+
 ### 🛠️ Tech Stack & Skills
 
 <table align="center" width="100%">
@@ -108,12 +124,4 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-<a href="mailto:utkarshkumarsingh491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/utkarsh-kumar-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=utkarshkumarsinghcg-cmyk&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
-</div>
