@@ -29,20 +29,30 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<table>
+  <tr>
+    <!-- LEFT SIDE (TEXT) -->
+    <td width="60%">
 
-<p align="center">
-I'm an enthusiastic and highly motivated <b>Software Professional</b>.<br>
-I specialize in the <b>MERN Stack</b> and love turning complex problems into<br>
-elegant, user-friendly solutions.
-</p>
+## 🚀 About Me
 
-<p align="center">
-🚀 Currently building scalable apps with <b>React & Node.js</b><br>
-🌱 Exploring <b>Next.js</b> and advanced <b>Backend Architecture</b><br>
-🤝 Open to collaborating on <b>Portfolio Projects</b><br>
-📫 Reach me at: <b>utkarshkumarsingh491@gmail.com</b>
-</p>
+I'm an enthusiastic and highly motivated **Software Professional**.  
+I specialize in the **MERN Stack** and love turning complex problems into elegant, user-friendly solutions.
+
+- 🚀 Currently building scalable apps with **React & Node.js**
+- 🌱 Exploring **Next.js** and advanced **Backend Architecture**
+- 🤝 Open to collaborating on **Portfolio Projects**
+- 📫 Reach me at: **utkarshkumarsingh491@gmail.com**
+
+    </td>
+
+    <!-- RIGHT SIDE (IMAGE) -->
+    <td width="40%" align="center">
+      <img src="https://i.pinimg.com/1200x/d9/39/c5/d939c53e67a2a3def35d703a932672f9.jpg" width="300" />
+    </td>
+
+  </tr>
+</table>
 
 ### 🛠️ Tech Stack & Skills
 
