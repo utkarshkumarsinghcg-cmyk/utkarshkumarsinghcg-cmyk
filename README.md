@@ -49,19 +49,22 @@
 
 ---
 
+---
+
 ### 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF&background=1a1b27" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=utkarshkumarsinghcg-cmyk&theme=tokyonight&hide_border=true&stroke=00E5FF&ring=00E5FF&fire=00E5FF" alt="GitHub Streak" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&text_color=ffffff&icon_color=00E5FF&cache_seconds=1800" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=utkarshkumarsinghcg-cmyk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00E5FF&icon_color=00E5FF&text_color=ffffff" width="48%" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=ffffff&cache_seconds=1800" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=utkarshkumarsinghcg-cmyk&layout=compact&theme=tokyonight&hide_border=true&title_color=00E5FF&text_color=ffffff&langs_count=8" width="48%" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utkarshkumarsinghcg-cmyk&bg_color=1a1b27&color=00e5ff&line=00e5ff&point=ffffff&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
