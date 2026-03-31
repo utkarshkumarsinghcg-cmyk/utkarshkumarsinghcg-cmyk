@@ -29,23 +29,20 @@
 
 ---
 
-### 💫 About Me
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-  <div style="flex: 1;">
-    <p>
-      I'm an enthusiastic and highly motivated <b>Software Professional</b>. I specialize in the <b>MERN Stack</b> and love turning complex problems into elegant, user-friendly solutions.
-    </p>
-    <ul>
-      <li>🚀 Currently building scalable apps with <b>React & Node.js</b></li>
-      <li>🌱 Exploring <b>Next.js</b> and advanced <b>Backend Architecture</b></li>
-      <li>👯 Open to collaborating on <b>Portfolio Projects</b></li>
-      <li>📫 Reach me at: <b>utkarshkumarsingh491@gmail.com</b></li>
-    </ul>
-  </div>
-  <img align="right" src="https://i.pinimg.com/originals/0e/7b/4b/0e7b4b10b06b2b7e64a13856b3e3465e.gif" width="300" />
-</div>
+<h2 align="center">🚀 About Me</h2>
 
----
+<p align="center">
+I'm an enthusiastic and highly motivated <b>Software Professional</b>.<br>
+I specialize in the <b>MERN Stack</b> and love turning complex problems into<br>
+elegant, user-friendly solutions.
+</p>
+
+<p align="center">
+🚀 Currently building scalable apps with <b>React & Node.js</b><br>
+🌱 Exploring <b>Next.js</b> and advanced <b>Backend Architecture</b><br>
+🤝 Open to collaborating on <b>Portfolio Projects</b><br>
+📫 Reach me at: <b>utkarshkumarsingh491@gmail.com</b>
+</p>
 
 ### 🛠️ Tech Stack & Skills
 
@@ -67,7 +64,7 @@
 </table>
 
 ---
----
+
 
 ### 📊 GitHub Analytics
 
