@@ -5,6 +5,10 @@
   Building scalable web applications & solving real-world problems
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/banner.png" alt="banner" />
+</p>
+
 ---
 
 ### 💫 About Me
@@ -13,8 +17,8 @@ I’m a passionate Full Stack Developer focused on building high-performance and
 
 I enjoy solving real-world problems, designing efficient backend systems, and creating clean, user-friendly interfaces.
 
-- 🚀 Currently building projects with **React & Node.js**
-- 🌱 Exploring **Next.js & Advanced Backend Architecture**
+- 🚀 Currently building with **React & Node.js**
+- 🌱 Exploring **Next.js & Backend Architecture**
 - 👯 Open to collaborating on **Hackathons & Real Projects**
 - 📫 Reach me at: **utkarshkumarsingh491@gmail.com**
 
@@ -23,8 +27,8 @@ I enjoy solving real-world problems, designing efficient backend systems, and cr
 ### 🚀 Featured Projects
 
 - 🔗 **HackMatch** – Platform to find and build hackathon teams  
-- 🤖 **Chain Reaction Bot** – Python bot to automate gameplay  
-- 🌊 **Ocean Story Website** – Interactive storytelling web app  
+- 🤖 **Chain Reaction Bot** – Python automation bot  
+- 🌊 **Ocean Story Website** – Interactive storytelling app  
 
 ---
 
@@ -62,7 +66,7 @@ I enjoy solving real-world problems, designing efficient backend systems, and cr
 
 ### ⚡ Fun Fact
 
-I prefer building real projects over just watching tutorials 😄
+I prefer building real projects over watching tutorials 😄
 
 ---
 
