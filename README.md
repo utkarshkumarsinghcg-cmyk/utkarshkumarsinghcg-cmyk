@@ -1,4 +1,6 @@
-<h1 align="center">UTKARSH KUMAR SINGH</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=UTKARSH KUMAR SINGH;Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
+</h1>
 <table>
   <tr>
     <td width="50%">
@@ -20,9 +22,7 @@
   </tr>
 </table>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" alt="Typing SVG" />
-</h1>
+
 
 ---
 
