@@ -147,11 +147,5 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
 
 ---
 
-### 💻 Workspace Aesthetic
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/29/dd/db/29dddbb74db0c68adc5358271281e03a.jpg" width="50%" style="border-radius: 15px;" />
-</p>
-
----
 
 
