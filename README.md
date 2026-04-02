@@ -16,8 +16,27 @@
     <td width="50%">
       <h2>🚀 Full Stack Developer</h2>
       <p>
-        I build scalable web applications using the MERN stack.<br><br>
-        Passionate about solving real-world problems and creating clean UI.
+       <h3>⚡ What I Do</h3>
+
+- 🚀 Build scalable full-stack web applications  
+- 🔐 Implement secure authentication & APIs  
+- 🎯 Focus on performance & clean UI/UX  
+- 🌍 Solve real-world problems through code  
+
+<h3>📌 Highlights</h3>
+- ⚡ MERN Stack   
+- 🚀 Deployed apps on Vercel & Netlify  
+- 📈 Continuously improving DSA & System Design  
+
+<h3>🎯 Current Focus</h3>
+
+- 🔥 Advanced React & Next.js  
+- 🧠 System Design  
+- ⚙️ Backend Scalability  
+
+<h3>👉 Fun Fact</h3>
+
+I don’t just write code, I build solutions that matter 🚀
       </p>
   </tr>
 </table>
