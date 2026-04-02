@@ -1,8 +1,15 @@
+<!-- 🔥 BACKGROUND BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:000000&height=250&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=UTKARSH+KUMAR+SINGH;Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=500&lines=UTKARSH+KUMAR+SINGH;Full+Stack+Developer;MERN+Stack+Expert;Creative+Problem+Solver;Building+Real+World+Projects" 
     alt="Typing SVG" 
   />
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=utkarshkumarsinghcg-cmyk&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
+</div>
+</h1>
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=utkarshkumarsinghcg-cmyk&label=Profile%20Views&color=00e5ff&style=flat-square" alt="Profile Views" />
 </div>
