@@ -1,5 +1,10 @@
 <!-- 🔥 BACKGROUND BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:000000&height=250&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+<div align="center">
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:000000&height=250&section=header&text=Utkarsh%20Kumar%20Singh&fontSize=40&fontColor=ffffff&animation=fadeIn" 
+    width="100%"
+  />
+</div>
 
 <h1 align="center">
   <img 
