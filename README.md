@@ -28,15 +28,7 @@
 - 🚀 Deployed apps on Vercel & Netlify  
 - 📈 Continuously improving DSA & System Design  
 
-<h3>🎯 Current Focus</h3>
 
-- 🔥 Advanced React & Next.js  
-- 🧠 System Design  
-- ⚙️ Backend Scalability  
-
-<h3>👉 Fun Fact</h3>
-
-I don’t just write code, I build solutions that matter 🚀
       </p>
   </tr>
 </table>
