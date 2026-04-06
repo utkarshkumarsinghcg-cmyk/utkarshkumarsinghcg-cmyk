@@ -22,22 +22,11 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
     </td>
     <td width="50%">
-      <h2>🚀 Full Stack Developer</h2>
+     
 
-<h3>⚡ What I Do</h3>
 
-- 🚀 Build scalable full-stack web applications  
-- 🔐 Implement secure authentication & APIs  
-- 🎯 Focus on performance & clean UI/UX  
-- 🌍 Solve real-world problems through code  
 
-<h3>📌 Highlights</h3>
-
-- ⚡ MERN Stack   
-- 🚀 Deployed apps on Vercel & Netlify  
-- 📈 Continuously improving DSA & System Design  
-
-<h3>📚 Currently Learning</h3>
+<h2>📚 Currently Learning</h2>
 
 - ⚛️ Advanced React (Performance Optimization, Hooks)  
 - 🧠 System Design Fundamentals  
