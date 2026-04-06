@@ -23,11 +23,10 @@
     </td>
     <td width="50%">
      
-
-
-
 <h2>📚 Currently Learning</h2>
 
+
+---
 - ⚛️ Advanced React (Performance Optimization, Hooks)  
 - 🧠 System Design Fundamentals  
 - 🔐 Scalable Backend Architecture  
