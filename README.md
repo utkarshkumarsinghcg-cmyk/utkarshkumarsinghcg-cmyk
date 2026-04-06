@@ -16,8 +16,6 @@
 </div>
 </h1>
 
-  
-</h1>
 <table>
   <tr>
     <td width="50%">
@@ -25,8 +23,8 @@
     </td>
     <td width="50%">
       <h2>🚀 Full Stack Developer</h2>
-      <p>
-       <h3>⚡ What I Do</h3>
+
+<h3>⚡ What I Do</h3>
 
 - 🚀 Build scalable full-stack web applications  
 - 🔐 Implement secure authentication & APIs  
@@ -34,22 +32,25 @@
 - 🌍 Solve real-world problems through code  
 
 <h3>📌 Highlights</h3>
+
 - ⚡ MERN Stack   
 - 🚀 Deployed apps on Vercel & Netlify  
 - 📈 Continuously improving DSA & System Design  
 
+<h3>📚 Currently Learning</h3>
 
-    
+- ⚛️ Advanced React (Performance Optimization, Hooks)  
+- 🧠 System Design Fundamentals  
+- 🔐 Scalable Backend Architecture  
+- 🚀 Exploring Next.js & Production-level apps  
+
   </tr>
 </table>
-
-
 
 ---
 
 <table>
   <tr>
-    <!-- LEFT SIDE (TEXT) -->
     <td width="60%">
 
 ## 🚀 About Me
@@ -64,27 +65,26 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
 
     </td>
 
-    <!-- RIGHT SIDE (IMAGE) -->
     <td width="40%" align="center">
       <img src="https://i.pinimg.com/1200x/d9/39/c5/d939c53e67a2a3def35d703a932672f9.jpg" width="300" />
     </td>
-
   </tr>
 </table>
 
-
-
-
-### 🌐 Connect With Me
-<p align="center">
-<a href="mailto:utkarshkumarsingh491@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/utkarsh-kumar-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
-
 ---
 
+### 🌐 Connect With Me
 
+<p align="center">
+<a href="mailto:utkarshkumarsingh491@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/utkarsh-kumar-singh">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -131,6 +131,7 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
+---
 
 ### 📊 GitHub Analytics
 
@@ -156,6 +157,3 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
 </table>
 
 ---
-
-
-
