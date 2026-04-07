@@ -74,7 +74,7 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
 <img src="https://img.shields.io/badge/View%20Resume-00E5FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
 </a>
 </p>
----
+
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
