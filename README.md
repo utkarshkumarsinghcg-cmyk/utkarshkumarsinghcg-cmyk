@@ -70,8 +70,13 @@ I specialize in the **MERN Stack** and love turning complex problems into elegan
 <a href="https://linkedin.com/in/utkarsh-kumar-singh">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+<a href="YOUR_RESUME_VIEW_LINK">
+<img src="https://img.shields.io/badge/View%20Resume-00E5FF?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+<a href="YOUR_RESUME_DOWNLOAD_LINK">
+<img src="https://img.shields.io/badge/Download%20Resume-FF4B2B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+</a>
 </p>
-
 ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
